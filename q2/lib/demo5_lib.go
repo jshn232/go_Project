@@ -1,4 +1,4 @@
-package lib5
+package lib
 
 import "fmt"
 
